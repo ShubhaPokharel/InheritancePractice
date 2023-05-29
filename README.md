@@ -16,7 +16,7 @@ If we create the object of Child class, we can access its own properties and Par
 It is recommended to create the object of Child class. 
 
 
-*******************************************************************Types of Inheritance******************************************************
+Types of Inheritance
 
 ***********************************************************************************************************************************************
 
