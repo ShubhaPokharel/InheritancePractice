@@ -34,7 +34,7 @@ Types of Inheritance
      
      
      2) Muti Level Inheritance:
-       It had 3 genertions / levels. We have the parent class, child class and grand child class. 
+       It has 3 genertions / levels. We have the parent class, child class and grand child class. 
      
 
     
