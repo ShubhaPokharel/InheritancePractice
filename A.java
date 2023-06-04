@@ -15,6 +15,11 @@ class B extends A{  //child class
 		System.out.println("*******************************");
 		B b = new B();
 		b.money();
+		
+		System.out.println("*******************************");
+		b.clothes();
+		
+		
 
 	}
 }
