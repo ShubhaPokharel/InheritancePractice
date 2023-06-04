@@ -11,7 +11,7 @@ class B extends A{  //child class
 	public static void main(String[] args){
 		A a = new A();
 		a.money();  //this gets parent class property only
-		// this gets the properties of the parent and child class
+		// check what it prints out
 		System.out.println("*******************************");
 		B b = new B();
 		b.money();
