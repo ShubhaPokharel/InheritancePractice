@@ -5,9 +5,9 @@
  Inheritance is the relationship between the child and parent class in java. To create the relationship we use extend keyword in the child class. 
 The child class can access the parent's properties, but the parent cannot access the child's properties. 
 
-The class that is giving the properties is the Parent Class. 
+The class that is giving the properties is the Parent Class. Parent class is also called Super or Base class.
 
-The class that is receiving the properties from the Parent class is Child Class.
+The class that is receiving the properties from the Parent class is Child Class. The Child is also called as Sub or Derived class.
 
 It is possible to create the obect of both parent and child class. If we create the object of Parent class we can access the Parent's properties.
 
