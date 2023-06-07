@@ -7,6 +7,8 @@ The child class can access the parent's properties, but the parent cannot access
 
 Inheritance allows a class to share some properties or attributes from another class. It helps us not reuse the code multiple times. In other words, it helps us work without reinventing the wheel.
 
+Inheritance is also known as "IS-A relationship" which is also means "parent-child relationship." 
+
 The class that is giving the properties is the Parent Class. Parent class is also called Super or Base class.
 
 The class that is receiving the properties from the Parent class is Child Class. The Child is also called as Sub or Derived class.
