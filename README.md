@@ -31,6 +31,8 @@ Benefits of Inheritance:
 
 4- We can add new features to the child class without modifying the existing properties / functionalities from parent class.
 
+5- We use it for Method Overriding (so runtime polymorphism can be achieved).
+
 
 Types of Inheritance
 
