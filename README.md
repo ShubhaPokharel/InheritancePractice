@@ -9,6 +9,8 @@ Inheritance allows a class to share some properties or attributes from another c
 
 Inheritance is also known as "IS-A relationship" which is also means "parent-child relationship." 
 
+We can inherit attributes and methods from one class to another in java.
+
 The class that is giving the properties is the Parent Class. Parent class is also called Super or Base class.
 
 The class that is receiving the properties from the Parent class is Child Class. The Child is also called as Sub or Derived class.
