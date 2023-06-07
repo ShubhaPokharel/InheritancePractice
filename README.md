@@ -36,6 +36,11 @@ Benefits of Inheritance:
 5- We use it for Method Overriding (so runtime polymorphism can be achieved).
 
 
+Note: The biggest advantage of Inheritance is that the code in base class need not be rewritten in the child class.
+
+The variables and methods of the base class can be used in the child class as well.
+
+
 Types of Inheritance
 
 ***********************************************************************************************************************************************
